@@ -1,28 +1,19 @@
-# EDS220_Fall2022_HW2
-### Information needed for HW2 and final project for EDS 220, Fall 2022
+## Moderate Resolution Imaging Spectroradiometer (MODIS) Burned Area 
+This repository contains useful information to access and analyze the Moderate Resolution Imaging Spectroradiometer (MODIS) Burned Area data on Google Earth Engine (GEE).
 
-This repository contains useful template information for working on assignments for EDS 220 Working With Environmental Data at UC Santa Barbara (Fall 2021 quarter). 
+### Authors
+Dalila Lara, UC Santa Barbara (dalilalara@ucsb.edu)
+Ruth Enriquez, UC Santa Barbara (rbe786@ucsb.edu) 
+Michael Zargari, UC Santa Barbara (mzargari@ucsb.edu)
 
-Contents:
-- HW2_template.ipynb: Template Jupyter notebook for use in Homework 2 and final project
+### Content
+- final_project_team9.ipynb: Jupyter notebook containing analysis and walkthrough of the GEE data
 - environment.yml: Template environment file for use in creating Binder environment for running Jupyter notebook
 
-Information for Homework 2:
-- Due date = **Friday, November 18**
-- Deliverables:
-   - Jupyter notebook template - complete sections through "Metadata and Basic Visualization"
-   - Any necessary data or supporting files included in the repo
-   - README file edited to be appropriate for your project
+### Data
+<a href="https://developers.google.com/earth-engine/datasets/catalog/ESA_CCI_FireCCI_5_1#dois" >MODIS Fire_cci Burned Area Pixel Product, Version 5.1 </a>
 
+The data we are using can be accessed by Google Earth Engine. To use GEE one must have an account, be sure to authenticate and initialize GEE in order to run the notebook successfuly. 
 
-Information for final project:
-- Presentation dates: **Nov 29; Dec 1**
-- Final writeup hand-in date: **Dec 5**
-- Deliverables (for in-class presentation):
-  - Jupyter notebook - all sections completed, initial sections edited to reflect grade feedback
-  - Binder environment compiled to allow others to run code easily
-  - Group-led presentation on assigned date
-
-- Deliverables (for final writeup):
-  - Jupyter notebook, supporting data files, Binder environment, and README in repo
-  - Edits reflecting student and instructor feedback can be made until due date
+### Packages 
+The packages we will be using include ee, geemap, pandas, matplotlib, numpy, & cartopy. These packages will allow us to read in the GEE data, maniuplate the data, and map the data. 
