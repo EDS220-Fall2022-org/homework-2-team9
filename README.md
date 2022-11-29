@@ -17,3 +17,7 @@ The data we are using can be accessed by Google Earth Engine. To use GEE one mus
 
 ### Packages 
 The packages we will be using include ee, geemap, pandas, matplotlib, numpy, & cartopy. These packages will allow us to read in the GEE data, maniuplate the data, and map the data. 
+
+
+launch with myBinder
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/<https://github.com/EDS220-Fall2022-org/homework-2-team9>)
