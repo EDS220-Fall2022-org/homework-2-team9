@@ -8,9 +8,14 @@ dependencies:
   - matplotlib
   - pandas
   - geopandas
-  - ee
-  - geemap
+  - contextily
+  - rasterio
+  - scipy
+  - cartopy
+  - openblas==0.2.19
+ 
 
+ 
   
   
   
