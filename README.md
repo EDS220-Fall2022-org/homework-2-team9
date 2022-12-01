@@ -20,4 +20,4 @@ The packages we will be using include ee, geemap, pandas, matplotlib, numpy, & c
 
 
 launch with myBinder
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/<https://github.com/EDS220-Fall2022-org/homework-2-team9>)
+[![Binder](https://mybinder.org/badge.svg)](hhttps://hub.gke2.mybinder.org/user/eds220-fall2022-omework-2-team9-j5t33jgw/doc/tree/final_project_team9.ipynb<https://github.com/EDS220-Fall2022-org/homework-2-team9>)
