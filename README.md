@@ -1,5 +1,7 @@
-## Moderate Resolution Imaging Spectroradiometer (MODIS) Burned Area 
-This repository contains useful information to access and analyze the Moderate Resolution Imaging Spectroradiometer (MODIS) Burned Area data on Google Earth Engine (GEE).
+# Analysis of the Australian Bushfires (2019 - 2020)
+This reposirtory conducts an analysis of the 2019 - 2020 Australia Wildfire impacts. The bush fires are estimated to have burned about 24.3 million hectares (60 million acres), impacting the local fauna and flora. Our analysis will further dive into the impacts of the wildfire on the landcover and evapotranspiration of Australia. 
+
+To access the data for the analysis it can be aquired via <a href = "https://earthengine.google.com" >Google Earth Engine </a>.
 
 ### Authors
 Dalila Lara, UC Santa Barbara (dalilalara@ucsb.edu)
@@ -12,8 +14,6 @@ Michael Zargari, UC Santa Barbara (mzargari@ucsb.edu)
 
 ### Data
 <a href="https://developers.google.com/earth-engine/datasets/catalog/ESA_CCI_FireCCI_5_1#dois" >MODIS Fire_cci Burned Area Pixel Product, Version 5.1 </a>
-<a href = "https://developers.google.com/earth-engine/datasets/catalog/TERN_AET_CMRSET_LANDSAT_V2_2"> Actual Evapotranspiration for Australia (CMRSET Landsat V2.2) </a>
-
 
 <a href = "https://developers.google.com/earth-engine/datasets/catalog/TERN_AET_CMRSET_LANDSAT_V2_2"> Actual Evapotranspiration for Australia (CMRSET Landsat V2.2) </a>
 
