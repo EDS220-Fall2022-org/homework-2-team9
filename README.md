@@ -12,6 +12,8 @@ Michael Zargari, UC Santa Barbara (mzargari@ucsb.edu)
 
 ### Data
 <a href="https://developers.google.com/earth-engine/datasets/catalog/ESA_CCI_FireCCI_5_1#dois" >MODIS Fire_cci Burned Area Pixel Product, Version 5.1 </a>
+<a href = "https://developers.google.com/earth-engine/datasets/catalog/TERN_AET_CMRSET_LANDSAT_V2_2"> Actual Evapotranspiration for Australia (CMRSET Landsat V2.2) </a>
+
 
 <a href = "https://developers.google.com/earth-engine/datasets/catalog/TERN_AET_CMRSET_LANDSAT_V2_2"> Actual Evapotranspiration for Australia (CMRSET Landsat V2.2) </a>
 
@@ -21,5 +23,4 @@ The data we are using can be accessed by Google Earth Engine. To use GEE one mus
 The packages we will be using include ee, geemap, pandas, matplotlib, numpy, & cartopy. These packages will allow us to read in the GEE data, maniuplate the data, and map the data. 
 
 
-launch with myBinder
-[![Binder](https://mybinder.org/badge.svg)](hhttps://hub.gke2.mybinder.org/user/eds220-fall2022-omework-2-team9-j5t33jgw/doc/tree/final_project_team9.ipynb<https://github.com/EDS220-Fall2022-org/homework-2-team9>)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EDS220-Fall2022-org/homework-2-team9/main?labpath=final_project_team9.ipynb)
