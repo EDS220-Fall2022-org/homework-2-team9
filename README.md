@@ -13,6 +13,8 @@ Michael Zargari, UC Santa Barbara (mzargari@ucsb.edu)
 ### Data
 <a href="https://developers.google.com/earth-engine/datasets/catalog/ESA_CCI_FireCCI_5_1#dois" >MODIS Fire_cci Burned Area Pixel Product, Version 5.1 </a>
 
+<a href = "https://developers.google.com/earth-engine/datasets/catalog/TERN_AET_CMRSET_LANDSAT_V2_2"> Actual Evapotranspiration for Australia (CMRSET Landsat V2.2) </a>
+
 The data we are using can be accessed by Google Earth Engine. To use GEE one must have an account, be sure to authenticate and initialize GEE in order to run the notebook successfuly. 
 
 ### Packages 
